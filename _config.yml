@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: news-api.api.streamdata.gallery
-tag: Temmplate
+tag: News API
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
