@@ -3,12 +3,12 @@ name: News API
 x-slug: news-api
 description: Get live article metadata from a range of sources including BBC News,
   TechCrunch, Huffington Post and more with our free News API.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/26590-newsapi-org.jpg
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg
 x-kinRank: "9"
-x-alexaRank: "149236"
+x-alexaRank: "120829"
 tags: News API
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/news-api/master/_listings/news-api/apis.md
 specificationVersion: "0.14"
 apis:
@@ -17,7 +17,7 @@ apis:
   description: This endpoint provides live top and breaking headlines for a country,
     specific category in a country, single source, or multiple sources. You can also
     search with keywords. Articles are sorted by the earliest date published first.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org/v2//top-headlines/
   tags: News
@@ -28,7 +28,7 @@ apis:
   x-api-slug: news-api
   description: Search through millions of articles from over 5,000 large and small
     news sources and blogs. This includes breaking news as well as lesser articles.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org/v2//everything/
   tags: News
@@ -41,7 +41,7 @@ apis:
     (/v2/top-headlines) are available from. It's mainly a convenience endpoint that
     you can use to keep track of the publishers available on the API, and you can
     pipe it straight through to your users.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org/v2//sources/
   tags: News
@@ -52,7 +52,7 @@ apis:
   x-api-slug: news-api
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org/v2/
   tags: News API
