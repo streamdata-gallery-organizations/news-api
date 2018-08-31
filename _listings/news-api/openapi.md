@@ -1,11 +1,8 @@
----
 swagger: "2.0"
 x-collection-name: News API
 x-complete: 1
 info:
   title: News API
-  description: get-breaking-news-headlines-and-search-for-articles-from-over-5000-news-sources-and-blogs-with-our-news-api-
-  termsOfService: https://newsapi.org/terms
   version: 1.0.0
 host: newsapi.org
 basePath: v2/
@@ -141,4 +138,3 @@ paths:
           description: OK
       tags:
       - News
----
